@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'd644906e-4373-4533-b555-9d0cfae14486'
   
   # Web app name
-  webAppName: ''
+  webAppName: 'devopsjavapoc'
 
   # Environment name
   environmentName: 'dev'
